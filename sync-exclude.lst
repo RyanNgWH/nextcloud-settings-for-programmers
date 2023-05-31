@@ -171,3 +171,5 @@ pids/
 *.cpp.eep
 *.cpp.elf
 *.cpp.hex
+
+]Pods/
