@@ -250,6 +250,7 @@ These patterns at some point were set *out of box*. They are reasonable and shou
 | `*.cpp.eep` | | | **Beware, this is aggressive exclude** |
 | `*.cpp.elf` | | | **Beware, this is aggressive exclude** |
 | `*.cpp.hex` | | | **Beware, this is aggressive exclude** |
+| `db/` | y | directory for databases in code projects | |
 | **Ruby / CocoaPods** | | | |
 | `Pods/` | y | dir for CocoaPods | Huge folder, can be installed with `pod install` |
 
@@ -277,3 +278,4 @@ Remeber to remove `'.htaccess'` in Nextcloud's `config.php` from blacklist
 
 ## Changes by Ryan NgWH
 * Add CocoaPods exclusions
+* Add database folder exclusions (db/)

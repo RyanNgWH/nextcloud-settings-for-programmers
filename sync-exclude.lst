@@ -173,3 +173,4 @@ pids/
 *.cpp.hex
 
 ]Pods/
+]db/
