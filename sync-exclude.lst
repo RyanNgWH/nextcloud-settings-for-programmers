@@ -118,7 +118,7 @@ vendor/
 
 ]*~.nib
 ]*.swp
-]*.out
+# ]*.out
 ]*.pbxuser
 ]*.perspective
 ]*.perspectivev3

@@ -279,3 +279,4 @@ Remeber to remove `'.htaccess'` in Nextcloud's `config.php` from blacklist
 ## Changes by Ryan NgWH
 * Add CocoaPods exclusions
 * Add database folder exclusions (db/)
+* Removed exlusion for `.out` files
